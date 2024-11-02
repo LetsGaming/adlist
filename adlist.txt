@@ -1,3 +1,4 @@
+analytics.s3.amazonaws.com
 analyticsengine.s3.amazonaws.com
 affiliationjs.s3.amazonaws.com
 advertising-api-eu.amazon.com
@@ -6,7 +7,15 @@ luckyorange.com
 cdn.luckyorange.com
 w1.luckyorange.com
 bugsnag.com
+app.getsentry.com
 browser.sentry-cdn.com
 getsentry.com
 advertising.twitter.com
 d.reddit.com
+afs.googlesyndication.com
+ads-api.tiktok.com
+ads-sg.tiktok.com
+log.byteoversea.com
+ads.facebook.com
+pixel.facebook.com
+an.facebook.com
