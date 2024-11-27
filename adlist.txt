@@ -19,3 +19,15 @@ log.byteoversea.com
 ads.facebook.com
 pixel.facebook.com
 an.facebook.com
+pagead2.googlesyndication.com
+doubleclick.net
+ad.doubleclick.net
+static.doubleclick.ne
+m.doubleclick.net
+mediavisor.doubleclick.net
+geo.ads.brave.com
+static.ads.brave.com
+acsechocaptiveportal.com
+e6858.dscx.akamaiedge.net
+analytics.born-2-play.net
+d2qfnj9mv71tll.cloudfront.net
